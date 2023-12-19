@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/MSRC72423/7ec5e27f-e158-4832-98a2-7bbe89d00e00/8faaf74b-d9ec-43ba-bbac-cf0a13949174/_apis/work/boardbadge/d2d4f411-c279-4342-891c-f58014e40aea)](https://dev.azure.com/MSRC72423/7ec5e27f-e158-4832-98a2-7bbe89d00e00/_boards/board/t/8faaf74b-d9ec-43ba-bbac-cf0a13949174/Microsoft.RequirementCategory)
 # **This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.**
 
 ## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
